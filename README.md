@@ -1,4 +1,8 @@
 # README
+
+## Tool used
+- https://github.com/Tyriar/vscode-theme-generator
+
 ## This is the README for your extension "vsc-theme-m"
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
