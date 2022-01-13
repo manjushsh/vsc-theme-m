@@ -16,6 +16,11 @@
         "label": "Daaark",
         "uiTheme": "vs-dark",
         "path": "./themes/Daaark-color-theme.json"
+      },
+      {
+        "label": "Daaark v2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Daaark-v2-color-theme.json"
       }
     ]
   },
