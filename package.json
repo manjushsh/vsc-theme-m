@@ -2,7 +2,7 @@
   "name": "vsc-theme-m",
   "displayName": "vsc-theme-m",
   "description": "Daarker theme for VS Code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.63.0"
   },
@@ -19,7 +19,6 @@
       }
     ]
   },
-  "main": "",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/manjushsh/vsc-theme-m.git"
